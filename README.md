@@ -7,7 +7,7 @@ Hello, My name is Gabrielle Cuba
 
 ### 🛫 "Believing in yourself"
 - 📍 From SP 
-- 💻 Front-End Development Intern at [Avenue Code](https://www.avenuecode.com/)
+- 💻 Front-End Development at [Alice Saúde](https://www.alice.com.br/)
 
 ### ✨ GitHub Stats
 
