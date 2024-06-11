@@ -7,7 +7,7 @@ Hello, My name is Gabrielle Cuba
 
 ### 🛫 "Believing in yourself"
 - 📍 From SP 
-- 💻 Front-End Development at [Alice Saúde](https://www.alice.com.br/)
+- 💻 Front-End Development at [Mercado Livre](https://www.mercadolivre.com.br/#from=homecom)
 
 ### ✨ GitHub Stats
 
